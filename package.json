@@ -1,0 +1,25 @@
+{
+  "name": "mad-server",
+  "version": "1.0.0",
+  "description": "Labs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tstephenson91/Mad-Server.git"
+  },
+  "author": "Tiffany Stephenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "git@github.com:tstephenson91/Mad-Server.git/issues"
+  },
+  "homepage": "git@github.com:tstephenson91/Mad-Server.git/issues",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
